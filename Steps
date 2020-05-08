@@ -1,0 +1,54 @@
+1- criar a solution 
+dotnet new sln --name Api
+
+2- criar a aplication
+dotnet new webapi -n Application -o Api.Application --no-https
+
+3- adicionar Application na solution
+dotnet sln add Api.Application
+
+dotnet build
+
+4- Criar o Domain
+dotnet new classlib -n Domain -f netcoreapp3.1 -o Api.Domain
+dotnet sln add Api.Domain
+
+dotnet build
+
+5- Infraestrutura - CrossCutting
+dotnet new classlib -n CrossCutting -f netcoreapp3.1 -o Api.CrossCutting
+dotnet sln add Api.CrossCutting
+
+dotnet build
+
+6- Infraestrutura - Data
+dotnet new classlib -n Data -f netcoreapp3.1 -o Api.Data
+dotnet sln add Api.Data
+
+dotnet build
+
+7- Service
+dotnet new classlib -n Service -f netcoreapp3.1 -o Api.Service
+dotnet sln add Api.Service
+
+dotnet build
+
+8- Criar duas pastas dentro de Domain
+Entities
+Interfaces
+
+9- Adicionar o pacote EntityFrameWork no Api.Data
+dotnet add package Microsoft.EntityFrameworkCore --version 3.1.2
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.1.2
+dotnet add package Pomelo.EntityFrameworkCore.MySql --version 3.1.1
+
+10 - dotnet add Api.Data reference Api.Domain
+
+
+dotnet new sln --name Api ; dotnet new webapi -n Application -o Api.Application --no-https ; dotnet sln add Api.Application ; dotnet build ; 
+dotnet new classlib -n Domain -f netcoreapp3.1 -o Api.Domain ; dotnet sln add Api.Domain ; dotnet new classlib -n CrossCutting -f netcoreapp3.1 -o Api.CrossCutting ; 
+dotnet sln add Api.CrossCutting ; dotnet build ; dotnet new classlib -n Data -f netcoreapp3.1 -o Api.Data ; dotnet sln add Api.Data ; dotnet build ; 
+dotnet new classlib -n Service -f netcoreapp3.1 -o Api.Service ; dotnet sln add Api.Service ; dotnet build ; cd Api.Data ; dotnet add package Microsoft.EntityFrameworkCore --version 3.1.2 ; 
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.1.2 ; dotnet add package Pomelo.EntityFrameworkCore.MySql --version 3.1.1 ; dotnet build ; cd ..; dotnet build
+
+

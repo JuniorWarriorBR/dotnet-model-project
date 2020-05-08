@@ -1,0 +1,9 @@
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
