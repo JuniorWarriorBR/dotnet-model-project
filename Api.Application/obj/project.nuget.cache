@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d+vXDAwiMEPt5BLhe7Mk5N678TMSVLJtnBpOerMJtRtrW7n8Asqy6n0M/uWF8o+EiOQmRdl02UEaeHbf4+xpoQ==",
+  "dgSpecHash": "OONXGaJOueSKFuqo7SnXQpYw55VbkPnBMtVTHNVDoW6xIU9kGK92F2QDk2ERnETQyum2vDR7xl3qY3zbe6TNMQ==",
   "success": true,
   "projectFilePath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/Application.csproj",
   "expectedPackageFiles": [

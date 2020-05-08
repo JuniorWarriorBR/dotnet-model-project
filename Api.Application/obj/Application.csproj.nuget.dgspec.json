@@ -87,7 +87,17 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Data/Data.csproj": {
+                "projectPath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Data/Data.csproj"
+              },
+              "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/Domain.csproj"
+              },
+              "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/Service.csproj": {
+                "projectPath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -258,9 +268,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/CrossCutting.csproj": {
-                "projectPath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.CrossCutting/CrossCutting.csproj"
-              },
               "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Data/Data.csproj": {
                 "projectPath": "/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Data/Data.csproj"
               },

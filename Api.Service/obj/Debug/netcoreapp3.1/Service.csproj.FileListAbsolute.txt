@@ -6,11 +6,9 @@
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
-/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.dll
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/Data.dll
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/Domain.dll
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/Domain.pdb
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/Data.pdb
-/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.pdb
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/obj/Debug/netcoreapp3.1/Service.csprojAssemblyReference.cache
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete
