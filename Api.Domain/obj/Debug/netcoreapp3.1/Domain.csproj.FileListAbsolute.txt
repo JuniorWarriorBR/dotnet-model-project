@@ -6,3 +6,4 @@
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache

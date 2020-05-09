@@ -50,3 +50,5 @@
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/bin/Debug/netcoreapp3.1/CrossCutting.pdb
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/bin/Debug/netcoreapp3.1/Data.pdb
 /home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/home/junior/desenvolvimento/dotnet/cursoApiAspNetCoreUdemy/projeto/Api.Application/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
